@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Ranchers&display=swap');
+
+.btn{
+    font-size: 15px;
+    padding: 4px 11px;
+    border-radius: 35px;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn:hover{
+    color: white;
+    /* background: var(--main-bg-color); */
+}
+
+.text{
+    padding: 3px 5px;
+    font-size: 15px;
+    border: 2px solid black;
+    border-radius: 13px;
+    outline: none;
+}
+
+.flex{
+    display: flex;
+}
+
